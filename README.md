@@ -1,0 +1,2 @@
+# Twitter-Data-Wrangling
+in this project, I will be wrangling, analyzing and visualizing the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. The data I will be gathering, assessing, cleaning, analyzing, and visualizing will come from a downloadable CSV file, a URL link, and a JSON file extracted from twitter's API.
